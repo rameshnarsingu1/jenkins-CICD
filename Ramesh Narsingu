@@ -1,3 +1,1 @@
-date
-cal
-ls
+
